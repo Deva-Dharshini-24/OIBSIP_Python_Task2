@@ -1,13 +1,5 @@
 # 🤖 OIBSIP — Task 2: JARVIS AI Voice Assistant
 
-> **Intern Name:** Your Name Here
-> **Task Number:** Task 2
-> **Domain:** Python / Artificial Intelligence
-> **Organization:** Oasis Infobyte
-> **Submission Date:** June 2025
-
----
-
 ## 🎯 Objective
 
 Build a fully functional AI-powered desktop Voice Assistant named **JARVIS** using Python. The assistant listens to voice commands, processes them, and responds with speech output — supporting web search, app launching, weather updates, note-taking, command history, and a modern GUI.
