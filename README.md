@@ -216,10 +216,4 @@ A fully working offline-capable AI desktop assistant that:
 
 ---
 
-## File Naming Convention (As per OIBSIP Guidelines)
 
-YourName_Task2 — e.g., RaviKumar_Task2
-
----
-
-Submitted as part of the Oasis Infobyte Python / AI Internship — OIBSIP
