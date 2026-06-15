@@ -179,11 +179,7 @@ weather = get_weather("YourCity")
 
 ---
 
-## Screenshots
 
-Add screenshots to the assets/ folder.
-
-![JARVIS AI GUI](./assets/screenshot.png)
 
 ---
 
