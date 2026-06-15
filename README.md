@@ -208,4 +208,7 @@ A fully working offline-capable AI desktop assistant that:
 
 ---
 
+Submitted as part of the Oasis Infobyte Python Internship — OIBSIP
+
+
 
